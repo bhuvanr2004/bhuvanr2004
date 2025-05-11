@@ -15,7 +15,7 @@ Git, GitHub, and collaborative development
 
  👨‍💻 About Me
 - 🎓 Currently learning: **Deep Learning** with TensorFlow and Keras  
-- 💡 Interested in: **AI/ML**, **Front-End Web Development**, and **Cloud Computing**  
+- 💡 Interested in: **AI/ML**, **Full Stack Web Development**, and **Cloud Computing**  
 - 🤝 Open to collaboration on: **Open-source projects**, **AI applications**, and **Tech communities**  
 - 📫 Reach me at: bhuvan1715@gmail.com
 - 📞 Ph No: 8660687802
