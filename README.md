@@ -8,6 +8,7 @@ I enjoy exploring new technologies and applying them to solve real-world problem
 - 💡 Interested in: **AI/ML**, **Front-End Web Development**, and **Cloud Computing**  
 - 🤝 Open to collaboration on: **Open-source projects**, **AI applications**, and **Tech communities**  
 - 📫 Reach me at: bhuvan1715@gmail.com
+- 📞 Ph No: 8660687802
 - ⚡ Fun fact: I believe that **simplicity** is the ultimate sophistication.
 
 Thank you for visiting my profile!
