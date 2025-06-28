@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Currently learning: Deep Learning with TensorFlow and Keras<br>💡 Interested in: AI/ML, Full Stack Web Development, and Cloud Computing<br>🤝 Open to collaboration on: Open-source projects, AI applications, and Tech communities<br>📫 Reach me at: bhuvan1715@gmail.com<br>📞<br>⚡ Fun fact: I believe that simplicity is the ultimate sophistication.<br>Thank you for visiting my profile!</p>
+<p align="left">🎓 Currently learning: Deep Learning with TensorFlow and Keras<br>💡 Interested in: AI/ML, Full Stack Web Development, and Cloud Computing<br>🤝 Open to collaboration on: Open-source projects, AI applications, and Tech communities<br>📫 Reach me at: bhuvan1715@gmail.com<br><br>⚡ Fun fact: I believe that simplicity is the ultimate sophistication.<br>Thank you for visiting my profile!</p>
 
 ###
 
