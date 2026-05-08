@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Bhuvan Kumar.R<br><br>I am aspiring developer with a strong interest in Artificial Intelligence, Machine Learning, and Full Stack Development. I'm enthusiastic about using technology to build practical solutions that make a difference. 💡 I enjoy experimenting with modern frameworks, tools, and APIs, and I’m always eager to learn something new. Whether it's training machine learning models or developing responsive web applications, I love turning ideas into working products.<br><br>JavaScript, React, Node.js (Full Stack)<br><br>Git, GitHub, and collaborative development<br><br>🌱 Open to contributing to open-source projects and collaborating on innovative tech ideas.</p>
+<p align="left">👋 Hello, I'm Bhuvan Kumar.R<br><br>I am an aspiring developer with a strong interest in Python Full Stack Development and ML. I'm enthusiastic about using technology to build practical solutions that create real impact. 💡 I enjoy experimenting with modern frameworks, tools, and APIs, and I’m always eager to learn something new. Whether it's training machine learning models or developing scalable web applications, I love turning ideas into working products.
+
+🐍 Python, Django, Flask, FastAPI (Python Full Stack)
+🗄️ MongoDB, MySQL, REST APIs
+⚛️ Frontend: HTML, CSS, JavaScript, React.js
+🛠️ Git, GitHub, and collaborative development</p>
 
 ###
 
@@ -10,7 +15,7 @@
 
 ###
 
-<p align="left"><br>💡 Interested in: Full Stack Web Development,AI/ML, and Cloud Computing<br>🤝 Open to collaboration on: Open-source projects, AI applications, and Tech communities<br>📫 Reach me at: bhuvankumarr2004@gmail.com<br><br>⚡ Fun fact: I believe that simplicity is the ultimate sophistication.<br>Thank you for visiting my profile!</p>
+<p align="left"><br>💡 Interested in: Python Full Stack Web Development,AI/ML, and Cloud Computing<br>🤝 Open to collaboration on: Open-source projects, AI applications, and Tech communities<br>📫 Reach me at: bhuvankumarr2004@gmail.com<br><br>⚡ Fun fact: I believe that simplicity is the ultimate sophistication.<br>Thank you for visiting my profile!</p>
 
 ###
 
