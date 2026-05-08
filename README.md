@@ -4,9 +4,9 @@
 
 <p align="left">👋 Hello, I'm Bhuvan Kumar.R<br><br>I am an aspiring developer with a strong interest in Python Full Stack Development and ML. I'm enthusiastic about using technology to build practical solutions that create real impact. 💡 I enjoy experimenting with modern frameworks, tools, and APIs, and I’m always eager to learn something new. Whether it's training machine learning models or developing scalable web applications, I love turning ideas into working products.
 
-🐍 Python, Django, Flask, FastAPI (Python Full Stack)
-🗄️ MongoDB, MySQL, REST APIs
-⚛️ Frontend: HTML, CSS, JavaScript, React.js
+🐍 Python, Django, Flask, FastAPI (Python Full Stack) <br>
+🗄️ MongoDB, MySQL, REST APIs <br>
+⚛️ Frontend: HTML, CSS, JavaScript, React.js <br>
 🛠️ Git, GitHub, and collaborative development</p>
 
 ###
